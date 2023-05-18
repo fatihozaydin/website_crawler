@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-target_url = "https://atilsamancioglu.com"
+target_url = "https://google.com"
 foundLinks = []
 
 def make_request(url):
